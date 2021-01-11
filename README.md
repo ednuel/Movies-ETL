@@ -22,12 +22,14 @@
 
 ![](Data/tolist.png)
 
-###
+### To get the Dataframe about the information is [ETL_clean_wiki_movies.ipynb](ETL_clean_wiki_movies.ipynb)
 
-![](Data/Movies_df)
-![](Data/Checking.)
+![](Data/Movies_df.png)
 
-###
+![](Data/Checking..png)
+
+### To get the Dataframe above the information is in [movies_with_ratings_df.ipynb](movies_with_ratings_df.ipynb)
+
 ## Challenge Summary
 
 1. The data provided will always be in the correct file format like .json or .csv. If the data provided is not in that format the ETL pipeline will break.
