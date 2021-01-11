@@ -15,7 +15,19 @@
 
 ![](Data/Wiki.png)
 
-### To get this information [ETL_function_test.ipynb](ETL_function_test.ipynb)
+### To get the Data above information [ETL_function_test.ipynb](ETL_function_test.ipynb)
+
+
+![](Data/head.png)
+
+![](Data/tolist.png)
+
+###
+
+![](Data/Movies_df)
+![](Data/Checking.)
+
+###
 ## Challenge Summary
 
 1. The data provided will always be in the correct file format like .json or .csv. If the data provided is not in that format the ETL pipeline will break.
